@@ -1,0 +1,215 @@
+{
+	"id": "5adc27c9-f083-4bb5-a4b0-a5d44b4f3804",
+	"name": "stage_env",
+	"values": [
+		{
+			"key": "",
+			"value": "6f8026ad420afafd239defe39bcdf096c7de704e161d6869de6e3cd7de2ef13c",
+			"enabled": false
+		},
+		{
+			"key": "project_id",
+			"value": "5c8f20fa45b90658b8522985",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "sdk_token",
+			"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBfaWQiOiI1YzhmMjBmYTQ1YjkwNjU4Yjg1MjI5ODVfMiIsImFjY291bnRfaWQiOiI1YzhjYjUxZTQ1YjkwNjU3NGVlMmMzZjMiLCJpYXQiOjE1NTI4ODQwMTIsImV4cCI6MTU1MzA1NjgxMn0.vOVfgUn44TBHXqnDASZBJidOxRUwQgexg7rox2M04RU",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "host",
+			"value": "https://api-stage.geospark.xyz",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjVjOGNiNTFlNDViOTA2NTc0ZWUyYzNmMiIsImVtYWlsIjoic3VqaXRoQGdlb3NwYXJrLmNvIiwiaWF0IjoxNTUyODgzMjY2LCJleHAiOjE1NTI4OTc2NjZ9.oJ-EHY4XxqwtsLW1z0bM_tVBIz5nM-xVSFaHdrWbFgI",
+			"enabled": true
+		},
+		{
+			"key": "app_id_android",
+			"value": "5c88851645b9060588f654aa_1",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "app_id_ios",
+			"value": "5c8f20fa45b90658b8522985_2",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "package_name",
+			"value": "com.geospark.android",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "bundle_id",
+			"value": "com.storyboard.geoSparkExample-iOS",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "publish_key",
+			"value": "24967cf442a2ef97d889abff35828b91b6d148261328c8fe8fab3d96ce8001b1",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "secret_api_key",
+			"value": "b41e31200ff24ce1872451a789c1132c",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "5c8f29f245b90658b85229cd",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "iso_time",
+			"value": "2019-03-18T05:15:28.582Z",
+			"enabled": true
+		},
+		{
+			"key": "geofence_id",
+			"value": "5c88e6f645b9060588f65c77",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "date",
+			"value": "2019-03-15",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "profile_id",
+			"value": "5c8c90a345b906574ee2c32c",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "trip_id",
+			"value": "5c8b7e3d45b90650e8ec863e",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "month_only",
+			"value": 3,
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "year_only",
+			"value": 2019,
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "exposed_geofence_id",
+			"value": "5c88e71845b9060588f65c78",
+			"enabled": true
+		},
+		{
+			"key": "desc",
+			"value": "geofence 0",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "variable_key",
+			"value": "variable_value",
+			"enabled": true
+		},
+		{
+			"key": "itr",
+			"value": 1,
+			"enabled": true
+		},
+		{
+			"key": "group_id",
+			"value": null,
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "email_id",
+			"value": "sujith@geospark.co",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "11111111",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-03-18T11:47:12.301Z",
+	"_postman_exported_using": "Postman/6.7.1"
+}

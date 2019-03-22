@@ -1,0 +1,141 @@
+{
+	"id": "5bc87c39-460b-4a82-87a8-54b5d10e7cd7",
+	"name": "live",
+	"values": [
+		{
+			"key": "host",
+			"value": "https://api.geospark.co",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "sdk_token",
+			"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBfaWQiOiI1YzhiYTA3MDk1MzNhMzMxMmE1MzgyNjBfMSIsImFjY291bnRfaWQiOiI1YzhiOTlmZjk1MzNhMzI5MzgzMDk1YjIiLCJpYXQiOjE1NTI2NTQ1MzQsImV4cCI6MTU1MjgyNzMzNH0.vbxVyx-L3HD1fNeSCctTs_bJ8TO5fLnXxDQLhM4KA7I",
+			"enabled": true
+		},
+		{
+			"key": "secret_api_key",
+			"value": null,
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "variable_key",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "project_id",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "publish_key",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "app_id_ios",
+			"value": "5c8ba0709533a3312a538260_2",
+			"enabled": true
+		},
+		{
+			"key": "bundle_id",
+			"value": "com.storyboard.geoSparkExample-iOS",
+			"enabled": true
+		},
+		{
+			"key": "user_id",
+			"value": "5c8ba3809533a3312a538539",
+			"enabled": true
+		},
+		{
+			"key": "iso_time",
+			"value": "2019-03-15T13:16:14.624Z",
+			"enabled": true
+		},
+		{
+			"key": "trip_id",
+			"value": "5c8ba5949533a3312a5386f6",
+			"enabled": true
+		},
+		{
+			"key": "date",
+			"value": "2019-03-15",
+			"enabled": true
+		},
+		{
+			"key": "geofence_id",
+			"value": "5c810a339533a37c259016e2",
+			"enabled": true
+		},
+		{
+			"key": "secreat_key",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "app_id_android",
+			"value": "5c8ba0709533a3312a538260_1",
+			"enabled": true
+		},
+		{
+			"key": "package_name",
+			"value": "com.geospark.android",
+			"enabled": true
+		},
+		{
+			"key": "exposed_geofence_id",
+			"value": "5c4edc22fb97966801634caa",
+			"enabled": true
+		},
+		{
+			"key": "profile_id",
+			"value": "5c4edd68fb97966801634caf",
+			"enabled": true
+		},
+		{
+			"key": "month_only",
+			"value": 2,
+			"enabled": true
+		},
+		{
+			"key": "year_only",
+			"value": 2019,
+			"enabled": true
+		},
+		{
+			"key": "secret_key",
+			"value": "2266273698e7481cac8864812d9d4658",
+			"enabled": true
+		},
+		{
+			"key": "email_id",
+			"value": "sujith@geospark.co",
+			"type": "text",
+			"description": "",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "11111111",
+			"type": "text",
+			"description": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-03-18T13:52:24.459Z",
+	"_postman_exported_using": "Postman/6.7.1"
+}
